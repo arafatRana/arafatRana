@@ -2,8 +2,6 @@ Hi!
 
 I'm Md. Arafat Hossen
 
-Daraz Bangladesh || Data Analyst || Catalogue Management
-
 Quick highlights:
 
 Extensive experience in SQL & MS Excel
